@@ -1,6 +1,6 @@
 # No evidence for DNA N6-methyladenine in mammals
 ### Douvlataniotis K*, Bensberg M*, Lentini A*, Gylemo B & Nestor CE
-Availability: In press.
+Availability: [Science Advances Paper](https://advances.sciencemag.org/content/6/12/eaay3335)
 
 In this paper we show that all commonly used methods to detect DNA N6-methyladenine have inherent technical biases resulting in false positive detection.
 
